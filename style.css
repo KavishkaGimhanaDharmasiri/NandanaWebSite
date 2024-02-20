@@ -1,0 +1,17 @@
+/* Custom styles for the product page */
+
+.card {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  .img-thumbnail {
+    max-width: 150px;
+    height: auto;
+  }
+  
